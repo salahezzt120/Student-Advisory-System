@@ -16,17 +16,6 @@ The **Student Advisory System (SAS)** is a comprehensive solution designed to im
 
 ---
 
-## 📑 Table of Contents
-1. [Code](#code)  
-2. [Team Members](#team-members)  
-3. [Trello Board](#project-management)  
-4. [Features](#features)  
-5. [Requirements](#requirements)  
-6. [Installation](#installation)  
-7. [Technologies Used](#technologies-used)  
-
----
-
 ## 🌟 Features
 - **Streamlined Course Registration**: Avoid scheduling conflicts and register for courses efficiently.  
 - **Enhanced Advisor Communication**: Direct and structured communication with academic advisors.  
@@ -72,20 +61,20 @@ The **Student Advisory System (SAS)** is a comprehensive solution designed to im
     Open http://localhost:8000 in your browser.
 
     
-👥 Team Members
-Moaz Elsadany (Team Leader) - 22101969 - moaz.alsaadani.2023@aiu.edu.eg
-Salah Ezzat - 21100847 - salah.hassan.2022@aiu.edu.eg
-Abdelrahman Abdelkader - 20100254 - abdelrahman.abdelkader@aiu.edu.eg
-Youssef Abdelali - 20100503 - youssef.abdelalim@aiu.edu.eg
-Youssef Samuel - 21100866 - youssef.zaki.2022@aiu.edu.eg
+## 👥 Team Members
+- Moaz Elsadany (Team Leader) - 22101969 - moaz.alsaadani.2023@aiu.edu.eg
+- Salah Ezzat - 21100847 - salah.hassan.2022@aiu.edu.eg
+- Abdelrahman Abdelkader - 20100254 - abdelrahman.abdelkader@aiu.edu.eg
+- Youssef Abdelali - 20100503 - youssef.abdelalim@aiu.edu.eg
+- Youssef Samuel - 21100866 - youssef.zaki.2022@aiu.edu.eg
 
-📋 Project Management
-To track project progress and manage tasks, we use Trello.
-View the Trello Board
+## 📋 Project Management
+- To track project progress and manage tasks, we use Trello.
+  
 
-🚀 Technologies Used
-Frontend: SB Admin Bootstrap Template (HTML, CSS)
-Backend: Laravel Framework (PHP)
-Database: MySQL
-Version Control: Git & GitHub
-Project Management: Trello
+## 🚀 Technologies Used
+- **Frontend:** SB Admin Bootstrap Template (HTML, CSS)
+- **Backend:** Laravel Framework (PHP)
+- **Database:** MySQL
+- **Version Control:** Git & GitHub
+- **Project Management:** Trello
