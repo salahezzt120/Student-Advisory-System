@@ -12,7 +12,7 @@ The **Student Advisory System (SAS)** is a comprehensive solution designed to im
 ---
 
 ## 🖼️ Banner
-![SAS Banner](A_professional_banner_for_a_web_programming_projec.png)
+![SAS Banner](banner-web.png)
 
 ---
 
